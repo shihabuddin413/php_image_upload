@@ -1,0 +1,136 @@
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+}
+
+.grid-col{
+    display: grid;
+    grid-template-columns: auto auto;   
+    width: max-content;
+}
+
+.grid-col * {
+    padding: 8px 12px;
+    margin: 6px 8px;
+}
+
+label{
+    display: flex;
+    align-items: center;
+    background-color: rgb(243, 243, 243);
+    padding: 5px !important;
+    border: 1px solid rgb(243, 243, 243);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
